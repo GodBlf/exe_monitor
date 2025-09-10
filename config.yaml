@@ -1,0 +1,5 @@
+apps:
+  - path: "D:\\xrk\\AweSun\\AweSun.exe"
+    interval: 120 # 间隔多少秒
+  # - path: "C:\\Program Files\\App2\\app2.exe"
+  # interval: 20
